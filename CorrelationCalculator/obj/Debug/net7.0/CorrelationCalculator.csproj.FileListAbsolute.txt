@@ -1,0 +1,17 @@
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\bin\Debug\net7.0\CorrelationCalculator.exe
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\bin\Debug\net7.0\CorrelationCalculator.deps.json
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\bin\Debug\net7.0\CorrelationCalculator.runtimeconfig.json
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\bin\Debug\net7.0\CorrelationCalculator.dll
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\bin\Debug\net7.0\CorrelationCalculator.pdb
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.dll
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\refint\CorrelationCalculator.dll
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.pdb
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\ref\CorrelationCalculator.dll
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\bin\Debug\net7.0\ConsoleTables.dll
+C:\Users\ahmed\Desktop\algorithms\CorrelationCalculator\obj\Debug\net7.0\CorrelationCalculator.csproj.CopyComplete
